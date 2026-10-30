@@ -1,7 +1,12 @@
 # 🌸 Mizuki-yuqi
 ## 🌟写在前面
+>[!Warning]
+> - 由于原项目[mizuki](https://github.com/LyraVoid/Mizuki)已停止维护，故本博客也停止更新
+> - 喜欢原作者新项目的可以去[STAR](https://github.com/lyraVoid/shirone)
+> - 本人新博客以迁移至[Sumyu](https://yqamm.top)],欢迎小伙伴来加友链。
+
 ### 🎉<ins>**特别鸣谢**
-  - 本博客采用了B站大佬<strong><mark>松坂有希</strong>的开源主题`[Mizuki]`搭建。 感谢大佬的辛勤付出，在此拜谢！  
+  - 本博客采用了B站大佬<strong><mark>松坂有希</strong>的开源主题`[Mizuki]`搭建。 感谢大佬的辛勤付出，在此拜谢！
 ###  🐻‍❄️<ins>**链接提示**
 - 🎡B站视频演示： 
 [bilibili](https://space.bilibili.com/701864046)  
